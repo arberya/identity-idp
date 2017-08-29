@@ -10,7 +10,6 @@ feature 'IdV session', idv_job: true do
     end
 
     scenario 'decline to verify identity' do
-      click_idv_begin
       click_link t('links.cancel')
 
       expect(page).to have_content(t('idv.titles.cancel'))
