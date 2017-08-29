@@ -146,9 +146,6 @@ feature 'LOA3 Single Sign On', idv_job: true do
         loa3_sp_session
 
         visit verify_path
-        expect(page).not_to have_content(t('links.cancel'))
-
-        click_idv_begin
         click_idv_cancel
 
         expect(current_url).to eq(account_url)
