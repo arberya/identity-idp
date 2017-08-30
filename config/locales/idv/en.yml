@@ -4,7 +4,7 @@ en:
     buttons:
       activate_by_mail: Activate by mail
       activate_by_phone: Activate by phone
-      cancel: Cancel and return to your profile
+      cancel: Cancel and return to your account
       continue: Continue verifying your identity
       help: Continue to Help Center
       mail:
@@ -25,8 +25,7 @@ en:
       warning_points:
       - Login.gov won't keep a record of your name, address, birth date, or Social
         Security number.
-      - You’ll still have a login.gov account. You can manage or delete your account
-        from your profile.
+      - You’ll still have a login.gov account.
     errors:
       bad_dob: Your date of birth must be a valid date.
       duplicate_ssn: An account already exists with the information you provided.

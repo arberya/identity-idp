@@ -5,7 +5,7 @@ fr:
       activate_by_mail: Activer par la poste
       activate_by_phone: Activer par téléphone
       cancel: Annuler et retourner à votre profil
-      continue: Continuez à vérifier votre identité
+      continue: Continuez à vérifier votre compte
       help: Continuer jusqu'au Centre d'aide
       mail:
         resend: Envoyer une autre lettre
@@ -25,8 +25,7 @@ fr:
       warning_points:
       - Login.gov ne tiendra pas un registre de votre nom, adresse, date de naissance
         ou numéro de Sécurité Sociale.
-      - Vous aurez toujours un compte login.gov. Vous pouvez gérer ou supprimer votre
-        compte de votre profil.
+      - Vous aurez toujours un compte login.gov.
     errors:
       bad_dob: Votre date de naissance doit être une date valide.
       duplicate_ssn: Un compte existe déjà avec l'information que vous avez fournie.

@@ -5,7 +5,7 @@ es:
       activate_by_mail: Acitive por email
       activate_by_phone: Active por teléfono
       cancel: Cancele y regrese a su perfil
-      continue: Continuar comprobando su identidad
+      continue: Continuar comprobando su cuenta
       help: Continúe con el Centro de Ayuda
       mail:
         resend: Enviar otra carta
@@ -25,8 +25,7 @@ es:
       warning_points:
       - Login.gov no mantendrá un registro de su nombre, dirección, fecha de nacimiento,
         o número de Seguro Social.
-      - Aún tendrá una cuenta de login.gov. Puede administrar o eliminar su cuenta
-        de su perfil.
+      - Aún tendrá una cuenta de login.gov.
     errors:
       bad_dob: Su fecha de nacimiento debe ser una fecha válida.
       duplicate_ssn: Ya existe una cuenta con la información que proporcionó.
